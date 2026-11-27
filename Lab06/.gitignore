@@ -1,0 +1,5 @@
+data/
+.venv/
+.matplotlib/
+__pycache__/
+*.pyc
